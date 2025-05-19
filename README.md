@@ -4,7 +4,7 @@
 
 Daniela Salazar Amaya y Laura Indabur García
 
-## Requirements: This code was run in:
+## Requirements: This code was run on:
 
 - Operating sistem: Windows
 - Proggraming language: Python 3.12.7
