@@ -6,7 +6,7 @@ Daniela Salazar Amaya y Laura Indabur García
 
 ## Requirements: This code was run on:
 
-- Operating sistem: Windows
+- Operating sistem: Windows 11
 - Proggraming language: Python 3.12.7
 - Tools used: FastAPI and Streamlit frameworks
 
